@@ -1,6 +1,0 @@
-# .gitignore
-.env
-.well-known/
-**/pki-validation/
-config.private.js
-secrets.json
