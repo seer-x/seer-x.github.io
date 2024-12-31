@@ -226,7 +226,9 @@ h6 {
 }
 
 
-
+span.email b {
+	display: none;
+}
 
 
 
