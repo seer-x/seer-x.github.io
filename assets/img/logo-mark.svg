@@ -1,0 +1,14 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 92 134">
+  <title>Seerix</title>
+  <defs>
+    <linearGradient id="g" x1="0" y1="0" x2="1" y2="1">
+      <stop offset=".22" stop-color="#113E5D"/>
+      <stop offset=".56" stop-color="#9FD9C0"/>
+      <stop offset=".9" stop-color="#F9A90C"/>
+    </linearGradient>
+    <clipPath id="r"><rect x="46" y="0" width="46" height="134"/></clipPath>
+  </defs>
+  <circle cx="46" cy="88" r="44" fill="url(#g)"/>
+  <circle cx="46" cy="46" r="44" fill="#113E5D"/>
+  <circle cx="46" cy="88" r="44" fill="url(#g)" clip-path="url(#r)"/>
+</svg>
