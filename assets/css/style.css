@@ -32,7 +32,7 @@ p { margin: 0; }
 
 /* Two columns sharing one set of rows (header, space, content, space, footer),
    so the intro and the contact text start on the same line.
-   Content is capped at 1280px (split 1.3 : 1) and centred; the outer tracks are
+   Content is capped at 1280px (split 1.3 : 1) and centered; the outer tracks are
    gutters, and the contact panel runs into the right one so the navy reaches the edge. */
 .page {
   display: grid;
